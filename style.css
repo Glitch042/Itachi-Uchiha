@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.main-content {
+    background-color: blue;
+    text-align: center;
+    border: 40px;
+    padding: 20px;
+}
+div.main-content h1 {
+    color: blue;
+    background-color: lightgray;
+    display: inline-block;
+    font-size: 30px;
+    padding: 12px;
+} 
+div.statment {
+    background-color: lightgray;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    border: blue 3px solid;
+    margin-right: 900px;
+    color: blue;
+    font-weight: bold;
+    position: absolute;
+    top: 400px;
+    font-size: 20px;
+}
+div.main-text {
+    background-color: darkgray;
+    padding: 20px;
+}
+div.main-timeline {
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 35px;
+    border-radius: 15px;
+}
+div.main-timeline h2 {
+    color: blue;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+div.footer {
+    background-color: black;
+    padding: 15px;
+     text-align: center;
+}
+div.footer a {    
+    color: white;
+    font-size: small;
+    border: white 3px solid;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+}
+div.footer a:hover {
+    color: blue;
+    border: blue 4px solid;
+}
